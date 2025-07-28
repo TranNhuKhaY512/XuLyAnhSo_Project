@@ -120,3 +120,8 @@ git clone https://github.com/trdphatphattran/Digital-Image-Processing.git
 - [OpenCV](https://opencv.org/)
 - [Roboflow](https://roboflow.com/)
 - [Kaggle](https://www.kaggle.com/)
+
+## Thông tin liên lạc:
+- Name: Trần Như Khả Ý
+- Phone: 0364551205
+- Email: khaytran295@gmail.com
